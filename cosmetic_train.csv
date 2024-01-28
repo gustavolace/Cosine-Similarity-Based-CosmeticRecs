@@ -1,51 +1,76 @@
 nome_produto,descricao_produto,tipo_produto,peso_liquido,peso_solido,tamanho_embalagem,tipo_embalagem,preco
-Perfume Glamour Night,"Fragrância glamorosa para noites especiais",perfume,75ml,,,
+Perfume Glamour Night,"Fragrância glamorosa para noites especiais",perfume,75ml,,,,39.99
 Loção Hidratante Algodão Doce,"Doce fragrância de algodão para uma pele suave",hidratante,,150g,frasco_pump,21.99
-Paleta Sombras Vintage,"Paleta com tons vintage para looks sofisticados",maquiagem,,10g,,34.75
-Gel Pós-Sol Refrescante,"Alívio instantâneo para a pele após exposição solar",cuidados_sol,,200ml,frasco,16.50
+Paleta Sombras Vintage,"Paleta com tons vintage para looks sofisticados",maquiagem,,10g,,,34.75
+Gel Pós-Sol Refrescante,"Alívio instantâneo para a pele após exposição solar",cuidados_sol,,200ml,frasco,,16.50
 Máscara Cílios Alongadora,"Cílios incrivelmente alongados e definidos",maquiagem,,8g,tubo,12.99
-Creme Hidratante Noite,"Hidratação intensa para a pele durante a noite",creme,50g,,pote,29.50
-Gel de Limpeza Facial Citrus,"Limpeza profunda com aroma refrescante de citrus",limpeza,100ml,,frasco_pump,9.99
+Creme Hidratante Noite,"Hidratação intensa para a pele durante a noite",creme,50g,,,pote,29.50
+Gel de Limpeza Facial Citrus,"Limpeza profunda com aroma refrescante de citrus",limpeza,100ml,,,frasco_pump,9.99
 Spray Fixador Maquiagem,"Fixação duradoura para uma maquiagem impecável",maquiagem,,50ml,frasco_pump,15.25
 Bálsamo Labial Morango,"Hidratação labial com delicioso sabor de morango",cuidados_labios,,4g,tubo,5.99
-Creme Antiacne,"Controle eficaz da acne para uma pele saudável",creme,30g,,bisnaga,18.99
-Perfume Fresh Breeze,"Fragrância fresca e revigorante para o dia a dia",perfume,50ml,,,
+Creme Antiacne,"Controle eficaz da acne para uma pele saudável",creme,30g,,,bisnaga,18.99
+Perfume Fresh Breeze,"Fragrância fresca e revigorante para o dia a dia",perfume,50ml,,,,
 Base Compacta Matte,"Base compacta de acabamento matte para uma pele aveludada",maquiagem,,15g,compacto,21.50
-Gel de Banho Relaxante Lavanda,"Banho relaxante com aroma calmante de lavanda",banho,250ml,,frasco,11.75
-Removedor Maquiagem Bifásico,"Remoção suave e eficaz de maquiagem à prova d'água",maquiagem,100ml,,frasco,8.99
-Creme Firmador Corpo,"Firmeza e hidratação para uma pele mais tonificada",creme,150g,,bisnaga,25.99
+Gel de Banho Relaxante Lavanda,"Banho relaxante com aroma calmante de lavanda",banho,250ml,,,frasco,11.75
+Removedor Maquiagem Bifásico,"Remoção suave e eficaz de maquiagem à prova d'água",maquiagem,100ml,,,frasco,8.99
+Creme Firmador Corpo,"Firmeza e hidratação para uma pele mais tonificada",creme,150g,,,bisnaga,25.99
 Máscara Facial Argila Rosa,"Máscara facial com argila rosa para revitalização",mascara_facial,,50g,pote,14.50
-Perfume Masculino Sport,"Fragrância esportiva para homens modernos",perfume,100ml,,,
+Perfume Masculino Sport,"Fragrância esportiva para homens modernos",perfume,100ml,,,,
 Pó Compacto Bronzeador,"Bronzeado natural com textura leve e suave",maquiagem,,10g,compacto,17.99
-Sérum Iluminador Pele,"Iluminação instantânea para uma pele radiante",serum,40ml,,frasco_pump,26.75
-Shampoo Hidratante Camomila,"Hidratação suave e brilho para cabelos claros",cabelo,300ml,,frasco,13.50
-Condicionador Reparador Pontas Duplas,"Reparação intensiva para pontas duplas",cabelo,200ml,,frasco,15.99
+Sérum Iluminador Pele,"Iluminação instantânea para uma pele radiante",serum,40ml,,,frasco_pump,26.75
+Shampoo Hidratante Camomila,"Hidratação suave e brilho para cabelos claros",cabelo,300ml,,,frasco,13.50
+Condicionador Reparador Pontas Duplas,"Reparação intensiva para pontas duplas",cabelo,200ml,,,frasco,15.99
 Batom Líquido Matte Velvet Rose,"Batom líquido matte na cor Velvet Rose",maquiagem,,7ml,tubo,8.75
-Creme Revitalizante Olhos,"Revitalização para a área delicada dos olhos",creme,15g,,pote,19.25
+Creme Revitalizante Olhos,"Revitalização para a área delicada dos olhos",creme,15g,,,pote,19.25
 Esfoliante Labial Açúcar Mascavo,"Esfoliação suave para lábios macios e renovados",cuidados_labios,,8g,pote,6.99
-Perfume Unissex Mistério,"Fragrância envolvente para homens e mulheres",perfume,75ml,,,
-Perfume Delicate Petals,"Fragrância suave de pétalas delicadas",perfume,50ml,,,
+Perfume Unissex Mistério,"Fragrância envolvente para homens e mulheres",perfume,75ml,,,,
+Perfume Delicate Petals,"Fragrância suave de pétalas delicadas",perfume,50ml,,,,
 Hidratante Suave Almíscar,"Hidratação suave com aroma de almíscar",hidratante,,200g,frasco,24.50
-Paleta Sombras Natural Glow,"Paleta com tons naturais para um visual luminoso",maquiagem,,12g,,36.75
+Paleta Sombras Natural Glow,"Paleta com tons naturais para um visual luminoso",maquiagem,,12g,,,36.75
 Gel Pós-Sol Calmante Aloe Vera,"Alívio calmante para a pele com extrato de Aloe Vera",cuidados_sol,,150ml,frasco_pump,17.99
 Máscara Cílios Volumizadora,"Cílios volumosos com efeito dramático",maquiagem,,10g,tubo,14.50
-Creme Hidratante Dia,"Hidratação diária para a pele durante o dia",creme,75g,,pote,31.99
-Gel de Limpeza Facial Pepino,"Limpeza refrescante com extrato de pepino",limpeza,120ml,,frasco_pump,11.99
+Creme Hidratante Dia,"Hidratação diária para a pele durante o dia",creme,75g,,,pote,31.99
+Gel de Limpeza Facial Pepino,"Limpeza refrescante com extrato de pepino",limpeza,120ml,,,frasco_pump,11.99
 Spray Fixador Maquiagem Longa Duração,"Fixação duradoura para uma maquiagem impecável",maquiagem,,75ml,frasco_pump,18.25
 Bálsamo Labial Baunilha,"Hidratação labial com aroma doce de baunilha",cuidados_labios,,5g,tubo,6.50
-Creme Antiacne Noite,"Controle eficaz da acne durante a noite",creme,40g,,bisnaga,21.99
-Perfume Night Blossom,"Fragrância envolvente de flores noturnas",perfume,75ml,,,
-Base Líquida Efeito Natural,"Base de cobertura natural para uma pele leve",maquiagem,35ml,,tubo,20.50
-Gel de Banho Energizante Citrus,"Banho energizante com aroma cítrico revigorante",banho,300ml,,frasco,13.99
-Removedor Maquiagem Suave,"Remoção suave de maquiagem para peles sensíveis",maquiagem,150ml,,frasco,9.50
-Creme Firmador Braços e Pernas,"Firmeza e hidratação para áreas específicas",creme,120g,,bisnaga,27.99
+Creme Antiacne Noite,"Controle eficaz da acne durante a noite",creme,40g,,,bisnaga,21.99
+Perfume Night Blossom,"Fragrância envolvente de flores noturnas",perfume,75ml,,,,
+Base Líquida Efeito Natural,"Base de cobertura natural para uma pele leve",maquiagem,35ml,,,tubo,20.50
+Gel de Banho Energizante Citrus,"Banho energizante com aroma cítrico revigorante",banho,300ml,,,frasco,13.99
+Removedor Maquiagem Suave,"Remoção suave de maquiagem para peles sensíveis",maquiagem,150ml,,,frasco,9.50
+Creme Firmador Braços e Pernas,"Firmeza e hidratação para áreas específicas",creme,120g,,,bisnaga,27.99
 Máscara Facial Argila Verde,"Máscara facial com argila verde para purificação",mascara_facial,,60g,pote,15.75
-Perfume Masculino Classic,"Fragrância clássica para homens sofisticados",perfume,100ml,,,
+Perfume Masculino Classic,"Fragrância clássica para homens sofisticados",perfume,100ml,,,,
 Pó Compacto Iluminador,"Iluminação suave com textura aveludada",maquiagem,,8g,compacto,19.99
-Sérum Revitalizante Noite,"Revitalização intensiva durante a noite",serum,50ml,,frasco_pump,25.75
-Shampoo Reparador Argan,"Reparação profunda com óleo de argan",cabelo,250ml,,frasco,15.75
-Condicionador Volumizante,"Volume e brilho para cabelos finos",cabelo,180ml,,frasco,14.50
+Sérum Revitalizante Noite,"Revitalização intensiva durante a noite",serum,50ml,,,frasco_pump,25.75
+Shampoo Reparador Argan,"Reparação profunda com óleo de argan",cabelo,250ml,,,frasco,15.75
+Condicionador Volumizante,"Volume e brilho para cabelos finos",cabelo,180ml,,,frasco,14.50
 Batom Líquido Matte Nude Charm,"Batom líquido matte na cor Nude Charm",maquiagem,,6ml,tubo,9.75
-Creme Revitalizante Contorno Olhos,"Revitalização para o contorno dos olhos",creme,20g,,pote,17.25
+Creme Revitalizante Contorno Olhos,"Revitalização para o contorno dos olhos",creme,20g,,,pote,17.25
 Esfoliante Labial Melancia,"Esfoliação suave com aroma refrescante de melancia",cuidados_labios,,10g,pote,7.99
-Perfume Unissex Mystique,"Fragrância misteriosa para homens e mulheres",perfume,50ml,,,
+Perfume Unissex Mystique,"Fragrância misteriosa para homens e mulheres",perfume,50ml,,,,
+Perfume Spring Bloom,"Fragrância floral leve e refrescante",perfume,50ml,,,,
+Hidratante Intenso Flor de Cerejeira,"Hidratação intensiva com delicada fragrância floral",hidratante,,180g,frasco,23.50
+Paleta Sombras Smoky Eyes,"Paleta com tons esfumaçados para olhos sedutores",maquiagem,,15g,,,39.99
+Gel Pós-Sol Refrescante Aloe Vera,"Alívio refrescante para a pele com Aloe Vera",cuidados_sol,,120ml,frasco_pump,16.99
+Máscara Cílios Curvadora,"Cílios curvados e definidos com efeito duradouro",maquiagem,,12g,tubo,15.99
+Creme Hidratante Noite Suave,"Hidratação suave durante a noite para uma pele descansada",creme,60g,,,pote,28.50
+Gel de Limpeza Facial Frutas Tropicais,"Limpeza facial com aroma tropical de frutas",limpeza,150ml,,,frasco_pump,12.99
+Spray Fixador Maquiagem Matte,"Fixação matte para uma maquiagem sem brilho excessivo",maquiagem,,80ml,frasco_pump,19.25
+Bálsamo Labial Menta,"Hidratação labial refrescante com aroma de menta",cuidados_labios,,4g,tubo,5.50
+Creme Antiacne Dia,"Controle diário da acne para uma pele saudável",creme,35g,,,bisnaga,20.50
+Perfume Midnight Secrets,"Fragrância misteriosa para noites especiais",perfume,75ml,,,,
+Base Líquida Acabamento Radiante,"Base de cobertura média para uma pele radiante",maquiagem,40ml,,,tubo,22.75
+Gel de Banho Relaxante Lavanda,"Banho relaxante com aroma calmante de lavanda",banho,250ml,,,frasco,11.75
+Removedor Maquiagem Oil-Free,"Remoção eficaz de maquiagem sem deixar resíduos oleosos",maquiagem,120ml,,,frasco,9.99
+Creme Firmador Pescoço e Colo,"Firmeza e hidratação para áreas específicas",creme,100g,,,bisnaga,26.75
+Máscara Facial Ouro 24k,"Máscara facial luxuosa com partículas de ouro 24k",mascara_facial,,50g,pote,18.50
+Perfume Masculino Urban Explorer,"Fragrância urbana para homens modernos",perfume,100ml,,,,
+Pó Compacto Bronzeador Iluminador,"Bronzeado natural com toque iluminado",maquiagem,,12g,compacto,21.99
+Sérum Iluminador Pele Dourada,"Iluminação instantânea para uma pele dourada",serum,50ml,,,frasco_pump,27.99
+Shampoo Hidratante Coco,"Hidratação e frescor para cabelos com aroma de coco",cabelo,300ml,,,frasco,14.50
+Condicionador Reparador Argan e Keratina,"Reparação intensiva com argan e keratina",cabelo,200ml,,,frasco,16.99
+Batom Líquido Matte Red Velvet,"Batom líquido matte na cor Red Velvet",maquiagem,,8ml,tubo,10.75
+Creme Revitalizante Olhos Anti-Idade,"Revitalização anti-idade para a área dos olhos",creme,25g,,,pote,22.50
+Esfoliante Labial Morango,"Esfoliação suave com aroma delicioso de morango",cuidados_labios,,7g,pote,7.25
+Perfume Unissex Elegance,"Fragrância elegante para homens e mulheres",perfume,50ml,,,,
