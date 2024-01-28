@@ -1,6 +1,6 @@
 nome_produto,descricao_produto,tipo_produto,peso_liquido,peso_solido,tamanho_embalagem,tipo_embalagem,preco
 Creme Hidratante Noite,"Hidratação intensa para a pele durante a noite",creme,50g,,,pote,29.50
-Gel de Limpeza Facial Citrus,"Limpeza profunda com aroma refrescante de citrus",limpeza,100ml,,,frasco_pump,9.99
+Gel de Limpeza Facial Citrus,"Limpeza profunda com aroma refrescante de citrus",limpeza,100ml,,frasco_pump,9.99
 Spray Fixador Maquiagem,"Fixação duradoura para uma maquiagem impecável",maquiagem,,50ml,frasco_pump,15.25
 Bálsamo Labial Morango,"Hidratação labial com delicioso sabor de morango",cuidados_labios,,4g,tubo,5.99
 Creme Antiacne,"Controle eficaz da acne para uma pele saudável",creme,30g,,,bisnaga,18.99
