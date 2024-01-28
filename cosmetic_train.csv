@@ -1,9 +1,4 @@
 nome_produto,descricao_produto,tipo_produto,peso_liquido,peso_solido,tamanho_embalagem,tipo_embalagem,preco
-Perfume Glamour Night,"Fragrância glamorosa para noites especiais",perfume,75ml,,,,39.99
-Loção Hidratante Algodão Doce,"Doce fragrância de algodão para uma pele suave",hidratante,,150g,frasco_pump,21.99
-Paleta Sombras Vintage,"Paleta com tons vintage para looks sofisticados",maquiagem,,10g,,34.75
-Gel Pós-Sol Refrescante,"Alívio instantâneo para a pele após exposição solar",cuidados_sol,,200ml,frasco,,16.50
-Máscara Cílios Alongadora,"Cílios incrivelmente alongados e definidos",maquiagem,,8g,tubo,12.99
 Creme Hidratante Noite,"Hidratação intensa para a pele durante a noite",creme,50g,,,pote,29.50
 Gel de Limpeza Facial Citrus,"Limpeza profunda com aroma refrescante de citrus",limpeza,100ml,,,frasco_pump,9.99
 Spray Fixador Maquiagem,"Fixação duradoura para uma maquiagem impecável",maquiagem,,50ml,frasco_pump,15.25
