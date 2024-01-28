@@ -1,5 +1,5 @@
 nome_produto,descricao_produto,tipo_produto,peso_liquido,peso_solido,tamanho_embalagem,tipo_embalagem,preco
-Perfume Floral Elegance,"Fragrância floral suave e elegante",perfume,50,,frasco,
-Perfume Glamour Night,"Fragrância glamorosa para noites especiais",perfume,75,,frasco,
-Base Líquida Cobertura Total,"Base de alta cobertura para uma pele impecável",maquiagem,30,,tubo,18.50
-Gel Pós-Sol Refrescante,"Alívio instantâneo para a pele após exposição solar",cuidados_sol,,200,frasco,16.50
+Perfume Floral Elegance,"Fragrância floral suave e elegante",perfume,50,,,frasco
+Perfume Glamour Night,"Fragrância glamorosa para noites especiais",perfume,75,,,frasco
+Base Líquida Cobertura Total,"Base de alta cobertura para uma pele impecável",maquiagem,30,,,tubo,18.50
+Gel Pós-Sol Refrescante,"Alívio instantâneo para a pele após exposição solar",cuidados_sol,,200,frasco,,16.50
