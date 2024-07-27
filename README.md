@@ -8,11 +8,6 @@ O projeto CosmeticRecs utiliza técnicas de data science para proporcionar recom
   
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](./CosmeticRecs.ipynb)
 
-- **Vídeo do Código:**
-  
-https://github.com/gustavolace/Cosine-Similarity-Based-CosmeticRecs/assets/99536403/8969aed0-37cc-4afc-a40d-d875fab06b2f
-
-
 ## Funcionamento do Projeto:
 
 - **Imagem de Funcionamento:**
